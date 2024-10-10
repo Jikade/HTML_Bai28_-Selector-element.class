@@ -1,3 +1,4 @@
+/* "*" Chọn tất cả */
 * {
   color: brown;
   font-size: 30px;
@@ -5,4 +6,9 @@
 
 h2.demo {
   color: blueviolet;
+}
+
+p,
+.demo2 {
+  color: black;
 }
